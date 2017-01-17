@@ -4,12 +4,17 @@
 
 you create the space where the commist of the directory are going to
 be stored. you need to do it in order to star keeping snapshot of the 
-directory and  to be able to do commits. 
+directory and  to be able to do commits. =)
 
 
 How is the staging area different from the working directory and the repository?
 
 What value do you think it offers?
+
+the staging area offers the space where we can add desired files to the
+next commit. it offers the ability to decide which files we need or
+whici one we don't want to go into the commit.
+
 
 
 
