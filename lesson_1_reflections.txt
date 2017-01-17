@@ -1,0 +1,74 @@
+How did viewing a diff between two versions of a file help you see the bug that 
+was introduced?
+
+  
+  Fill in your answer here
+
+
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+   
+ 
+it can help in many situation like: 
+   -reviewing someone logic of a feature for the program.
+   -to undo our mistakes if we touched something it shouldn't be modified.
+   -we could use it as a backup in case something went wrong.
+   -we can review old ideas and implement them.
+	
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+  
+  
+PROS:
+   - i can review meaningful commits and the changes made on those.
+   - the number of commits can be controled.
+   - 
+
+CONS:
+   - with no autosave, if something unexpected happens and i'm not consistent with the commits, 	
+     i could lose some of the work done.
+   - it can get out of control if not having a rule of when to do a commit.
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+
+ 
+Because the information of a file can be used or be related in another file, 
+so having them separately won't do us any good. Meanwhile, having them
+separately it's good for files that are used by many people, for instance:
+having a control file where you report events during a work-in-progress project.
+
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+  
+
+ with git log we can review all the changes from previously done, we can check 
+ how many files were modified, the number of lines deleted and the number of lines 
+ added and comments of the committer, while git diff enables us to check the
+ changes between the two commits, by line and content. 
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    
+with version control i can check previous code and revert to a stable condition, 
+if something goes wrong.
+
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    
+i want to try to apply using in real proyects made by other people and me =)
