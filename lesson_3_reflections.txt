@@ -16,7 +16,7 @@ to stay up-to-date with meaningful changes in the local repository
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-forks copy a repository in github to your github account. clone copies
+ forks copy a repository in github to your github account. clone copies
 a repository indcate to your local computer and branches creates a commit 
 but it's not public to the master branch.
 
@@ -25,10 +25,16 @@ you want to clone when you want a copy of a repository where you can
 commit changes on your computer and you want to create a branch when
 you want a commit to be present but not visible on the master branch. 
 
+
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    you can check if the master branch in your github repository
+    have been update if you were disconnected a while, and
+    if that was the case, then you can check if any important file
+    has been altered.	
+
+
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
