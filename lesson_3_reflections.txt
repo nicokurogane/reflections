@@ -39,9 +39,21 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+   using a tool called win-merge to see the changes and merge between 
+   files. making sure everybody  has an up-to-date proyect.
+  
+   it would make VERY hard to do, since i think one person must
+   do all the job to keep the proyect updated. and if a bad merge
+   happens, it would mean double the effort to keep the changes
+   coherently.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+i want to make the changes in a separate branch when im working
+on a new feature but i don't want to commits those changes
+for new collaborators, so i don't mix things up.
+
+i can give us the freedom to experiment our ideas on working
+code without the fear of breaking it down and having to repair
+it to a previous state. 
